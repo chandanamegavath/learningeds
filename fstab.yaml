@@ -1,5 +1,5 @@
 mountpoints:
-  /:https://adobe.sharepoint.com/:f:/r/sites/eds33/Shared%20Documents/eds?csf=1&web=1&e=kplOKp
+  /:https://adobe.sharepoint.com/:f:/r/sites/eds33/Shared%20Documents/eds-storefront?csf=1&web=1&e=PKTT4P
 
 folders:
   /products/: /products/default
